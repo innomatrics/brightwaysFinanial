@@ -69,6 +69,27 @@
   display: none;
 }
 
+.dropdown{
+  background-color: white!important;
+  padding: 0!important;
+}
+
+
+.custom-dropdown-toggle{
+  /* background-color: white!important; */
+  border: none!important;
+  padding: 0!important;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
 .hamburger:hover {
   background-color: #357997;
 }
@@ -120,6 +141,12 @@
     height: 250px;
     background-color: #878787;
   }
+}
+
+.dropdown-content {
+  display: flex;
+  align-items: center;
+  gap: 8px; /* Adjust spacing between text and icon */
 }
 
 /* .roy{
