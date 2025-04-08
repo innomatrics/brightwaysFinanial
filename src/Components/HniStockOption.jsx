@@ -1,6 +1,6 @@
 import React from 'react';
 
-const HniStockOption = () => {
+const HniStockOption  = () => {
   return (
     <div className='container mx-auto mt-5 p-4'>
       <h1 className='text-3xl font-bold text-center mb-4'>HNI Stock Option</h1>
@@ -10,7 +10,7 @@ const HniStockOption = () => {
       <div className='grid md:grid-cols-2 gap-6 mt-5'>
         <div className='border rounded-lg p-6 p-4 shadow-md hover:shadow-lg transition duration-300 text-center'>
           <h4 className='text-xl font-semibold mb-2'>Monthly Plan</h4>
-          <h5 className='text-2xl font-bold text-green-600 mb-2'>₹50,000 + GST (18%)</h5>
+          <h5 className='text-2xl font-bold text-green-600 mb-2'>₹70,000 + GST (18%)</h5>
           <p className='text-gray-500 mb-4'>
             Receive 3-4 weekly stock option calls with professional insights and analysis.
           </p>
