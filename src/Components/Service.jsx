@@ -51,33 +51,7 @@ function Service() {
           </Col>
         </Row>
 
-       /* {/* Services Stats */}
-       <Row className="text-center">
-          <Col md={4} className="mb-4">
-            <Card className="shadow">
-              <Card.Body>
-                <h3>1,465+</h3>
-                <p>Happy Customers</p>
-              </Card.Body>
-            </Card>
-          </Col>
-          <Col md={4} className="mb-4">
-            <Card className="shadow">
-              <Card.Body>
-                <h3>512+</h3>
-                <p>Projects Completed</p>
-              </Card.Body>
-            </Card>
-          </Col>
-          <Col md={4} className="mb-4">
-            <Card className="shadow">
-              <Card.Body>
-                <h3>25+</h3>
-                <p>Years of Experience</p>
-              </Card.Body>
-            </Card>
-          </Col>
-        </Row> */
+    
 
         {/* Services Section Title */}
         <h2 className="text-center my-4">Empower Your Business with Our Services</h2>
