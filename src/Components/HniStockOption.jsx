@@ -3,7 +3,7 @@ import React from 'react';
 const HniStockOption  = () => {
   return (
     <div className='container mx-auto mt-5 p-4'>
-      <h1 className='text-3xl font-bold text-center mb-4'>HNI Stock Option</h1>
+      <h1 className='text-3xl font-bold text-center mb-4'>HNI Stock Option Pro</h1>
       <p className='text-center text-gray-600 mb-6'>
         Unlock premium HNI Stock Option services with expert trading recommendations and weekly insights.
       </p>
