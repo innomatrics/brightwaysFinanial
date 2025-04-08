@@ -65,7 +65,7 @@ function Service() {
                   <img src={service.image} alt={service.name} style={{ maxHeight: "100%", maxWidth: "100%" }} />
                 </div>
                 <Card.Body>
-                  <h5>{service.name}</h5>
+                 
                   <p>{service.description}</p>
                   <Button variant="primary" href={service.link}>Know More</Button>
                 </Card.Body>
