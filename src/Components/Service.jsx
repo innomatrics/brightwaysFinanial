@@ -17,7 +17,7 @@ const services = [
   { name: "Stock Cash Pro", description: "Advanced stock cash analysis with GST 18% applied for professional traders.", link: "/stock-cash-pro", image: stockcashpro },
   { name: "Basic Index Option", description: "Simplified index options strategies to maximize your portfolio returns.", link: "/basic-index-option", image: indexoption },
   { name: "HNI Index Option Pro", description: "High Net Worth Individual (HNI) tailored index trading solutions.", link: "/hni-index-option", image: hniindexoption },
-  { name: "HNI Stock Option", description: "Exclusive stock option strategies designed for elite investors.", link: "/hni-stock-option", image: stockoptiontrading },
+  { name: "HNI Stock Option Pro", description: "Exclusive stock option strategies designed for elite investors.", link: "/hni-stock-option", image: stockoptiontrading },
   { name: "HNI Stock Future Pro", description: "Futures trading insights for HNI investors with premium support.", link: "/hni-stock-future-pro", image: HNIStockFuturePro },
   { name: "Pro Commodity", description: "Expert commodity trading recommendations for diversified investments.", link: "/pro-commodity", image: CommodityPro },
   { name: "Momentum Trade", description: "Short-term trade setups focusing on momentum-based strategies.", link: "/momentum-trade", image: momentumtrading }
