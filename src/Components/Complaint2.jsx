@@ -82,6 +82,15 @@ const Complaint2 = () => {
             </thead>
             <tbody className="text-center">
 
+               <tr>
+                <td>4</td>
+                <td>March, 2025</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+                <td>0</td>
+              </tr>
+
               <tr>
                 <td>3</td>
                 <td>February, 2025</td>
@@ -92,7 +101,7 @@ const Complaint2 = () => {
               </tr>
 
               <tr>
-                <td>3</td>
+                <td>2</td>
                 <td>January, 2025</td>
                 <td>0</td>
                 <td>0</td>
