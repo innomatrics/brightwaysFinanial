@@ -90,14 +90,7 @@ function Header() {
                   </Dropdown.Toggle>
                   <Dropdown.Menu className="bg-white">
                     <Dropdown.Item href="/service">All Services</Dropdown.Item>
-                    <Dropdown.Item href="/basic-stock-cash">Basic Stock Cash</Dropdown.Item>
-                    <Dropdown.Item href="/stock-cash-pro">Stock Cash Pro (GST 18%)</Dropdown.Item>
-                    <Dropdown.Item href="/basic-index-option">Basic Index Option (GST 18%)</Dropdown.Item>
-                    <Dropdown.Item href="/hni-index-option">HNI Index Option Pro (GST 18%)</Dropdown.Item>
-                    <Dropdown.Item href="/hni-stock-option">HNI Stock Option (GST 18%)</Dropdown.Item>
-                    <Dropdown.Item href="/pro-commodity">Pro Commodity (GST 18%)</Dropdown.Item>
-                    <Dropdown.Item href="/hni-stock-future-pro">HNI Stock Future Pro (GST 18%)</Dropdown.Item>
-                    <Dropdown.Item href="/momentum-trade">Momentum Trade (GST 18%)</Dropdown.Item>
+                    
                   </Dropdown.Menu>
                 </Dropdown>
               </li>
