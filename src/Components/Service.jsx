@@ -52,7 +52,7 @@ function Service() {
         </Row>
 
         {/* Services Stats */}
-        <Row className="text-center">
+        /*<Row className="text-center">
           <Col md={4} className="mb-4">
             <Card className="shadow">
               <Card.Body>
@@ -77,7 +77,7 @@ function Service() {
               </Card.Body>
             </Card>
           </Col>
-        </Row>
+        </Row> */
 
         {/* Services Section Title */}
         <h2 className="text-center my-4">Empower Your Business with Our Services</h2>
